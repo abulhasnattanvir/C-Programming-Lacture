@@ -1,0 +1,58 @@
+Course Name: Programming In C.
+
+Total Duration: 30 Hours (12-14 Classes)
+
+Regular Course Fee: 20,000 Taka
+
+
+Course Modules: 
+
+Introduction to Computers and Programming
+· Welcome
+· Computer Systems: Hardware and Software
+· Introduction to a Program
+· Procedural and Object-Oriented Programming
+
+Problem-Solving Process 
+· The Programming Process
+· Basic Structure in C
+· Input, Processing, and Output
+· Getting Started With “Hello World”
+. Code Comment
+
+Introduction to C
+· Variables 
+· Data Types
+· Operators
+· Mathematical Expressions
+
+Conditionals
+· If Statement
+· If/Else Statement
+· If/Else If Statement
+· Switch Statement
+· Break, Continue Statement 
+
+Loops
+· For Loop
+· While Loop
+· Do-While Loop
+· Controlling Loop Flow with Break, Continue
+. Nested Loop
+
+Array
+· Declaration 
+. One Dimension
+. Multi Dimensions
+
+Function
+· Library/ Build-In Function
+. User-Define Function  
+
+Pointer & String
+· Introduce With Pointer
+. String Operation
+
+Ending
+· Make a Simple Project
+. Introduce With Online Judge
